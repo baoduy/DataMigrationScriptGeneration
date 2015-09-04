@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBD.SSDT.Extensions", "HBD.SSDT.Extensions\HBD.SSDT.Extensions.csproj", "{28A98E4A-A370-4D21-B133-4F88719B5669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBD.SSDT.ExtensionsTests", "HBD.SSDT.ExtensionsTests\HBD.SSDT.ExtensionsTests.csproj", "{8D4C5524-C210-4689-B9CC-39D087C19657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMigrationScriptGenerationApplication", "MergeScriptGeneration\DataMigrationScriptGenerationApplication.csproj", "{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{C26A7A3F-8805-4E2B-9BDF-9CF52B6ED605}"
+	ProjectSection(SolutionItems) = preProject
+		License.txt = License.txt
+		README.md = README.md
+		ReleaseNote.txt = ReleaseNote.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Debug|x86.Build.0 = Debug|Any CPU
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Release|x86.ActiveCfg = Release|Any CPU
+		{28A98E4A-A370-4D21-B133-4F88719B5669}.Release|x86.Build.0 = Release|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Debug|x86.Build.0 = Debug|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Release|x86.ActiveCfg = Release|Any CPU
+		{8D4C5524-C210-4689-B9CC-39D087C19657}.Release|x86.Build.0 = Release|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Debug|x86.Build.0 = Debug|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Release|x86.ActiveCfg = Release|Any CPU
+		{E095FC7A-9F79-4C2F-BDCF-C04D3B8C9C0E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://steven2412.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HBD.SSDT.Extensions\\HBD.SSDT.Extensions.csproj
+		SccProjectName1 = HBD.SSDT.Extensions
+		SccLocalPath1 = HBD.SSDT.Extensions
+		SccProjectUniqueName2 = HBD.SSDT.ExtensionsTests\\HBD.SSDT.ExtensionsTests.csproj
+		SccProjectName2 = HBD.SSDT.ExtensionsTests
+		SccLocalPath2 = HBD.SSDT.ExtensionsTests
+		SccProjectUniqueName3 = MergeScriptGeneration\\DataMigrationScriptGenerationApplication.csproj
+		SccProjectName3 = MergeScriptGeneration
+		SccLocalPath3 = MergeScriptGeneration
+	EndGlobalSection
+EndGlobal
