@@ -1,4 +1,4 @@
-# CodeCoverageGenerationTool
+# DataMigrationScriptGenerationTool
 The latest releases can be downloaded from [releases](https://github.com/baoduy/DataMigrationScriptGeneration/releases).
 
 [![Nuget](https://img.shields.io/nuget/dt/DataMigrationScriptGeneration.svg)](https://www.nuget.org/packages/DataMigrationScriptGenerationApplication)
