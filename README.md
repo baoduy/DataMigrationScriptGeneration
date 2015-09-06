@@ -1,9 +1,9 @@
 # DataMigrationScriptGenerationTool
-The latest releases can be downloaded from [releases](https://github.com/baoduy/DataMigrationScriptGeneration/releases).
+The latest releases can be downloaded from [releases](https://github.com/baoduy/DataMigrationScriptGenerationApplication/releases).
 
-[![Nuget](https://img.shields.io/nuget/dt/DataMigrationScriptGeneration.svg)](https://www.nuget.org/packages/DataMigrationScriptGenerationApplication)
-[![Nuget](https://img.shields.io/nuget/v/DataMigrationScriptGeneration.svg)](https://www.nuget.org/packages/DataMigrationScriptGenerationApplication)
-[![Nuget](https://img.shields.io/nuget/vpre/DataMigrationScriptGeneration.svg)](https://www.nuget.org/packages/DataMigrationScriptGenerationApplication)
+[![Nuget](https://img.shields.io/nuget/dt/DataMigrationScriptGenerationApplication.svg)](https://www.nuget.org/packages/DataMigrationScriptGenerationApplication)
+[![Nuget](https://img.shields.io/nuget/v/DataMigrationScriptGenerationApplication.svg)](https://www.nuget.org/packages/DataMigrationScriptGenerationApplication)
+[![Nuget](https://img.shields.io/nuget/vpre/DataMigrationScriptGenerationApplication.svg)](https://www.nuget.org/packages/DataMigrationScriptGenerationApplication)
 
 ### Master 
 The primary repo for the project is [on GitHub](https://github.com/baoduy/DataMigrationScriptGeneration) and is also where the [wiki](https://github.com/baoduy/DataMigrationScriptGeneration/wiki) and [issues](https://github.com/baoduy/DataMigrationScriptGeneration/issues) are managed from.
